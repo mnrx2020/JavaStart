@@ -41,7 +41,7 @@ class Car extends Vehicle{
 }
 
 
-public class Main {
+public class VehicleOOP {
     public static void main(String[] args) {
         Vehicle audi = new Vehicle(4,1,"white","Audi A4");
         Car myAudi = new Car(4,1,"white","Audi A4",2,"black");

@@ -9,6 +9,8 @@ In this project, I created simple Java code to understand:
 * Loops (for, while)
 * Methods and functions
 * Classes and objects
+* Java Collections
+* Java packages
 * Java File Handling
 
 The project serves as an introduction to Java, providing hands-on experience with the language's core concepts.
@@ -17,6 +19,8 @@ Features
 * Basic Java Syntax: Understanding the basic structure of Java code.
 * Object-Oriented Programming: Introduction to classes and objects.
 * Loops and Conditionals: Using loops and if statements to control the flow of the program.
+* Java packages.
+* Java Collections.
 * Java File Handling.
 
 Requirements
